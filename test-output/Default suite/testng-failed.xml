@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.selcs.MaxMinChrome">
+      <class name="com.locator.Easycalculation">
         <methods>
-          <include name="ChromeBrowserLaunch"/>
+          <include name="ChromeTesting"/>
         </methods>
-      </class> <!-- com.selcs.MaxMinChrome -->
+      </class> <!-- com.locator.Easycalculation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
